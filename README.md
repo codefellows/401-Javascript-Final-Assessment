@@ -20,9 +20,9 @@ This assignment is going to be a little different with the submission process
 in order to keep the solutions confidential (I want to use this or something
 like it for future classes).
 
-First, clone this repository to your local machine (do not fork your own version of it).
-Then finish your solution and commit the results. Now instead of pushing your
-changes to master I want you to create a patch file, which will be what you
+First, clone this repository to your local machine (**do not fork your own version of it or push any version to your Github account**).
+Then finish your solution and commit the results. Now *instead of pushing your
+changes to master* I want you to create a patch file, which will be what you
 submit in canvas. In order to create a patch file run this command from the root
 of your clone: `git format-patch fad91f73c4859ceec5b83e21cda3d3149a984026`. 
 This should create a patch file in the root of your directory, submit this file 
