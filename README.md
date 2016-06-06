@@ -1,29 +1,24 @@
 # Final Code Assessment
 
-This should be a final assessment of your individual ability to write code. 
-This assignment will be open book except where noted, but don't collaborate with
-fellow students. You can ask TAs and instructors clarifying questions but not debugging or guidance
-questions.
+This is a final assessment of your individual ability to write code. This assignment will be open book except where noted, but don't collaborate with fellow students. You can ask TAs and instructors clarifying questions but not debugging or guidance questions.
 
-For this assignment I've given you the boilerplate of a simple full stack
-Javascript application. You'll have to find all the spots where I've placed a
-TODO comment run this command: `cat <(grep TODO *.js) <(grep -r TODO app) <(grep -r TODO test)` 
-and fill the in the code that is needed to satisfy the request. This is more of 
-a completion assignment than one you'll be graded on but make sure to follow 
-best practices.
+For this assignment you have recieved the boilerplate of a simple full stack Javascript application. You'll have to find all the spots where comments marked `// TODO` or `<!-- TODO -->` have been placed in the application code base. Each _TODO_ comment contains instuctions for features that need to be implemented. Find and fill the in the code that is needed to satisfy each _TODO_'s request. Make sure to follow the best practices covered in the 401.
+
+To find all the _TODO_ comments run this command:  
+`cat <(grep TODO *.js) <(grep -r TODO app) <(grep -r TODO test)` 
 
 # To Submit Your Assignment
-**READ THIS BEFORE BEGINNING TO WRITE CODE**
-*Feel free to have TAs help you with the submission process.*
+**READ THIS BEFORE BEGINNING TO WRITE CODE**  
+_Feel free to have TAs help you with the submission process._
 
-This assignment is going to be a little different with the submission process
-in order to keep the solutions confidential (I want to use this or something
-like it for future classes).
+In order to keep your solutions confidential, the submission process will be different than previous assignmets.  
+**Do not put your soultion on github or make any pull request to this repository!**
 
-First, clone this repository to your local machine (**do not fork your own version of it or push any version to your Github account**).
-Then finish your solution and commit the results. Now *instead of pushing your
-changes to master* I want you to create a patch file, which will be what you
-submit in canvas. In order to create a patch file run this command from the root
-of your clone: `git format-patch fad91f73c4859ceec5b83e21cda3d3149a984026`. 
-This should create a patch file in the root of your directory, submit this file 
-in canvas.
+### How to submit
+* Clone this repository to your local machine (_do not make a fork_)
+* Code your solution use proper git workflow
+ * commit your results
+* Create a patch file by runing the folloing command (_do not make changes to this command_)
+ * `git format-patch fad91f73c4859ceec5b83e21cda3d3149a984026`
+ * This will create a patch file
+* Upload this patch file to canvas
