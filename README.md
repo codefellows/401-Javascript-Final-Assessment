@@ -5,11 +5,11 @@ This assignment will be open book except where noted but don't collaborate with
 fellow students. You can ask clarifying questions but not debugging or guidance
 questions.
 
-For this assingment I've given you the boilerplate of a simple full stack
+For this assignment I've given you the boilerplate of a simple full stack
 Javascript application. You'll have to find all the spots where I've placed a
 TODO comment run this command: `cat <(grep TODO *.js) <(grep -r TODO app) <(grep -r TODO test)` 
 and fill the in the code that is needed to satisfy the request. This is more of 
-a completion assingment than one you'll be graded on but make sure to follow 
+a completion assignment than one you'll be graded on but make sure to follow 
 best practices.
 
 # To Submit Your Assignment! *READ THIS BEFORE BEGINNING TO WRITE CODE*
