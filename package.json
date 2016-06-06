@@ -1,0 +1,26 @@
+{
+  "name": "final_code_assessments",
+  "version": "1.0.0",
+  "description": "This should be a final assessment of your idividual ability to write code.  This assignment will be open book except where noted but don't collaborate with fellow students. You can ask clarifying questions but not debugging or guidance questions.",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "angular": "^1.5.6",
+    "angular-mocks": "^1.5.6",
+    "gulp": "^3.9.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
