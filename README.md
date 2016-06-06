@@ -15,7 +15,7 @@ best practices.
 # To Submit Your Assignment! *READ THIS BEFORE BEGINNING TO WRITE CODE*
 *Feel free to have TAs help you with the submission process.*
 
-This assingment is going to be a little different with the submission process
+This assignment is going to be a little different with the submission process
 in order to keep the solutions confidential (I want to use this or something
 like it for future classes).
 
