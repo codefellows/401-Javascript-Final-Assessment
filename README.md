@@ -12,6 +12,7 @@ To find all the _TODO_ comments run this command:
 _Feel free to have TAs help you with the submission process._
 
 In order to keep your solutions confidential, the submission process will be different than previous assignmets.
+**Do not put your soultion on github or make any pull request to this repository!**
 
 ### How to submit
 * Clone this repository to your local machine (_do not make a fork_)
