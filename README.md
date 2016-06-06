@@ -8,7 +8,7 @@ To find all the _TODO_ comments run this command:
 `cat <(grep TODO *.js) <(grep -r TODO app) <(grep -r TODO test)` 
 
 # To Submit Your Assignment
-**READ THIS BEFORE BEGINNING TO WRITE CODE**
+**READ THIS BEFORE BEGINNING TO WRITE CODE**  
 _Feel free to have TAs help you with the submission process._
 
 In order to keep your solutions confidential, the submission process will be different than previous assignmets.  
