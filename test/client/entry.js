@@ -1,6 +1,6 @@
 var angular = require('angular');
 require('angular-mocks');
-require('../../app/entry.js');
+require('../../app/js/entry.js');
 
 describe('the client', function() {
   beforeEach(angular.mock.module('cfFinalApp'));
