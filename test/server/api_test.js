@@ -6,8 +6,9 @@ chai.use(chaiHttp);
 describe('longest palindrome', function() {
   //TODO make this test async
   it('should return the longest palindrome', function() {
-    chai.request('localhost:3000/api/palindrome')
-      .post('/api/palindrome', {text: 'aaaxfbbbbbzqccc'});
+    chai.request('localhost:3000')
+      .post('/api/palindrome')
+      .send({text: 'aaaxfbbbbbzqccc'})
       //TODO finish this test
   });
 });
