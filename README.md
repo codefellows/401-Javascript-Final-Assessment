@@ -19,6 +19,6 @@ In order to keep your solutions confidential, the submission process will be dif
 * Code your solution use proper git workflow
  * commit your results
 * Create a patch file by running the following command (_do not make changes to this command_)
- * `git format-patch fad91f73c4859ceec5b83e21cda3d3149a984026`
+ * `git format-patch -n HEAD^`
  * This will create a patch file
 * Upload this patch file to canvas
